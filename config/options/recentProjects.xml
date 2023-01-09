@@ -1,0 +1,65 @@
+<application>
+  <component name="RecentProjectsManager">
+    <option name="additionalInfo">
+      <map>
+        <entry key="$USER_HOME$/AndroidStudioProjects/MySANTE">
+          <value>
+            <RecentProjectMetaInfo projectWorkspaceId="1ihDbQVQmWpG6XQ3e0Vc8gksrIh">
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="build" value="AI-193.6911.18.40.6626763" />
+              <option name="buildTimestamp" value="1593052939207" />
+              <frame x="0" y="32" width="697" height="736" extendedState="1" />
+              <option name="productionCode" value="AI" />
+              <option name="projectOpenTimestamp" value="1607012947345" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Documents/papa/MyUADB">
+          <value>
+            <RecentProjectMetaInfo projectWorkspaceId="1hNPCWXh1C0GMZ85YrNwCsmbj06">
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="build" value="AI-193.6911.18.40.6626763" />
+              <option name="buildTimestamp" value="1593052955731" />
+              <frame x="10" y="20" width="1346" height="728" />
+              <option name="productionCode" value="AI" />
+              <option name="projectOpenTimestamp" value="1608392630484" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/AndroidStudioProjects/SunuSante">
+          <value>
+            <RecentProjectMetaInfo projectWorkspaceId="1lbN8ylCL8oiUZUBMmLx25sE76b">
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="build" value="AI-193.6911.18.40.6626763" />
+              <option name="buildTimestamp" value="1593052948832" />
+              <frame x="676" y="0" width="697" height="768" extendedState="7" />
+              <option name="productionCode" value="AI" />
+              <option name="projectOpenTimestamp" value="1608460536820" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/AndroidStudioProjects/Sante">
+          <value>
+            <RecentProjectMetaInfo projectWorkspaceId="1jNZc30fRuLrmD7bbhNCiIv4qG5">
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="build" value="AI-193.6911.18.40.6626763" />
+              <option name="buildTimestamp" value="1593052926716" />
+              <frame x="676" y="0" width="697" height="768" />
+              <option name="productionCode" value="AI" />
+              <option name="projectOpenTimestamp" value="1614437175587" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="lastProjectLocation" value="$USER_HOME$/AndroidStudioProjects" />
+    <option name="recentPaths">
+      <list>
+        <option value="$USER_HOME$/AndroidStudioProjects/Sante" />
+        <option value="$USER_HOME$/AndroidStudioProjects/SunuSante" />
+        <option value="$USER_HOME$/Documents/papa/MyUADB" />
+        <option value="$USER_HOME$/AndroidStudioProjects/MySANTE" />
+      </list>
+    </option>
+  </component>
+</application>
